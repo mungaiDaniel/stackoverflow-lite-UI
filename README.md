@@ -17,7 +17,11 @@ A signup page (also known as a registration page) enables users and organization
 
 The login page allows a user to gain access to an application by entering their username and password that has already registerd
 
-### 3. Home Page
+### 3. page to add a question
+
+platform whereby user can add a question
+
+### 4. Home Page
 
 this is the first Web page that is displayed after login in or sighn in and it will contain questions and answers
 
