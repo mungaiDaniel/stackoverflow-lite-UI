@@ -25,3 +25,11 @@ platform whereby user can add a question
 
 this is the first Web page that is displayed after login in or sighn in and it will contain questions and answers
 
+### 5. View a list of recently asked questions on the platform
+
+this is a page to View a list of recently asked questions on the platform
+
+### 6. View a question with all the answers posted for it and add an answer.
+
+this is a page to View a question with all the answers posted for it and add an answer.
+
