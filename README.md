@@ -11,3 +11,6 @@ The following are the tamplates and screenshots
 ### 1. Registration page
 
 A signup page (also known as a registration page) enables users and organizations to independently register and gain access to your system
+
+### 2. Login page
+
