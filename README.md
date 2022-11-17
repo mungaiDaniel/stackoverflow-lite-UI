@@ -16,3 +16,6 @@ A signup page (also known as a registration page) enables users and organization
 
 The login page allows a user to gain access to an application by entering their username and password that has already registerd
 
+### 3. page to add a question
+
+platform whereby user can add a question
