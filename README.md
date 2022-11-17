@@ -4,7 +4,10 @@ A simple user interface that allows you to register and login to a homepage. Sta
 
 ## Development
 
-The templates are design using HTML and CSS3 with Flex box technology.
+The templates are design using HTML and CSS3 with Flex box 
+technology.
+
+please click gh-pages to view my UI page
 
 The following are the tamplates and screenshots
 
