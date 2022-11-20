@@ -133,6 +133,7 @@ span{
     font-weight:lighter;
     gap: 30px;
     padding: 20px;
+    flex-wrap: wrap;
 }
 .desc{
     background-color: #232341;
@@ -152,7 +153,78 @@ span{
 
 h5{
     background-color: #232341;
-    color: darkslategrey;
+    color: rgb(180, 211, 211);
     padding: 20px;
     border-radius: 20px;
+}
+
+.button{
+    display: block;
+    width: 60%;
+    height: 2em;
+    font-size: 1.1rem;
+    border-color: white;
+    min-width: 300px;
+    background-color: #0a0a23;
+    border: 1px solid #0a0a23;
+    color: #4b4b4b;
+    margin: 20px;
+    border-radius: 10px;
+}
+textarea {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top:  30px;
+    width: 80%;
+    min-height: 2em;
+    background-color: #0a0a23;
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 20px;
+  }
+  
+  fieldset{
+    border: none;
+    margin-top: 30px;
+  }
+  legend{
+    text-align: center;
+  }
+  .button:hover{
+    background-color: #4e4f50;
+    color: #0a0a23;
+    cursor: pointer;
+    opacity: 0.5;
+
+}
+.button:active{
+    background-color: #0a0a23;
+    color: #4b4b4b;
+}
+#button{
+    display: block;
+    width: 20%;
+    height: 2em;
+    font-size: 1.1rem;
+    border-color: white;
+    min-width: 300px;
+    background-color: #0a0a23;
+    border: 1px solid #0a0a23;
+    color: #4b4b4b;
+    margin: 20px;
+    border-radius: 10px;
+}
+#button:hover{
+    background-color: #4e4f50;
+    color: #0a0a23;
+    cursor: pointer;
+    opacity: 0.5;
+
+}
+#button:active{
+    background-color: #0a0a23;
+    color: #4b4b4b;
 }
