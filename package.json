@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "semver": "^7.3.8"
+  },
+  "name": "mywebsite",
+  "version": "8.9.2",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d codeed"
+  },
+  "keywords": [],
+  "author": "Daniel",
+  "license": "ISC",
+  "homepage": "https://mungaiDaniel.github.io/stackoverflow-lite-UI"
+}
