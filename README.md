@@ -4,14 +4,16 @@ A simple user interface that allows you to register and login to a homepage. Sta
 
 ## Development
 
-The templates are design using HTML and CSS3 with Flex box technology.
+The templates are design using HTML and CSS3 with Flex box
+technology.
+
+please click gh-pages to view my UI page
 
 The following are the tamplates and screenshots
 
 ### 1. Registration page
 
 A signup page (also known as a registration page) enables users and organizations to independently register and gain access to your system
-
 
 ### 2. login page
 
@@ -29,7 +31,6 @@ this is the first Web page that is displayed after login in or sighn in and it w
 
 this is a page to View a list of recently asked questions on the platform
 
-### 6. View a question with all the answers posted for it and add an answer.
+### 6. View a question with all the answers posted for it and add an answer
 
 this is a page to View a question with all the answers posted for it and add an answer.
-
