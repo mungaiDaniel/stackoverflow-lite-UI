@@ -179,3 +179,45 @@ span{
 
     
 }
+@media only screen and (max-width: 720px){
+    main{
+        display:flex;
+        flex-direction: column;
+        margin-top: 50px;
+        height: 100vh;
+        overflow: scroll;
+        width: 100%;
+        overflow-wrap: normal;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+}
+section{
+    width: 90%;
+    overflow: scroll;
+    overflow-x: hidden;
+    border-top: 2px #0a0a23 solid;
+    height: 60%;
+}
+header{
+    display: inline-block;
+}
+img{
+    float: left;
+    position: absolute;
+    top: 0;
+}
+h3{
+    
+}
+}
+@media only screen and (max-width: 900px){
+    main{
+        margin-top: 40px;
+    }
+    section{
+        padding-right: 40px;
+    }
+}
